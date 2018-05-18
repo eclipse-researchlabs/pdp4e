@@ -7,3 +7,17 @@
 > Results of PDP4E will be assessed by two demonstration pilots on industries where privacy and data protection are especially relevant, one on novel financial applications and services (fintech application domain) and one on big data on smart grid (smart grid application domain).
 
 > PDP4E will promote its results in engineering communities, as Eclipse (community of software developers) or IPEN (community of stakeholders with an interest on privacy engineering). An open Alliance for Privacy and Data Protection Engineering is planned as a follow-up of the project, building on that community and the synergies among partners. PDP4E includes 8 partners and has a 33-month duration.
+
+## Partners
+
+<table>
+  <tr><td>1</td><td>TRIALOG</td><td>France</td></tr>
+</table>
+  
+2 UNIVERSIDAD POLITECNICA DE MADRID Spain
+3 CA TECHNOLOGIES DEVELOPMENT SPAIN SA Spain
+4 COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES France
+5 FUNDACION TECNALIA RESEARCH & INNOVATION Spain
+6 KATHOLIEKE UNIVERSITEIT LEUVEN Belgium
+7 ECLIPSE FOUNDATION EUROPE GMBH Germany
+8 UNIVERSITAET DUISBURG-ESSEN Germany
