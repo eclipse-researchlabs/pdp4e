@@ -14,11 +14,11 @@
   <tr><td>#</td><td>Partner</td><td>Country</td></tr>
   
   <tr><td>1</td><td>TRIALOG</td><td>France</td></tr>
-  <tr><td>UNIVERSIDAD POLITECNICA DE MADRID</td><td>Spain</td></tr>
-  <tr><td>CA TECHNOLOGIES DEVELOPMENT SPAIN SA</td><td>Spain</td></tr>
-  <tr><td>COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</td><td>France</td></tr>
-  <tr><td>FUNDACION TECNALIA RESEARCH & INNOVATION</td><td>Spain</td></tr>
-  <tr><td>KATHOLIEKE UNIVERSITEIT LEUVEN</td><td>Belgium</td></tr>
-  <tr><td>ECLIPSE FOUNDATION EUROPE GMBH</td><td>Germany</td></tr>
-  <tr><td>UNIVERSITAET DUISBURG-ESSEN</td><td>Germany</td></tr>
+  <tr><td>2</td><td>UNIVERSIDAD POLITECNICA DE MADRID</td><td>Spain</td></tr>
+  <tr><td>3</td><td>CA TECHNOLOGIES DEVELOPMENT SPAIN SA</td><td>Spain</td></tr>
+  <tr><td>4</td><td>COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</td><td>France</td></tr>
+  <tr><td>5</td><td>FUNDACION TECNALIA RESEARCH & INNOVATION</td><td>Spain</td></tr>
+  <tr><td>6</td><td>KATHOLIEKE UNIVERSITEIT LEUVEN</td><td>Belgium</td></tr>
+  <tr><td>7</td><td>ECLIPSE FOUNDATION EUROPE GMBH</td><td>Germany</td></tr>
+  <tr><td>8</td><td>UNIVERSITAET DUISBURG-ESSEN</td><td>Germany</td></tr>
 </table>
