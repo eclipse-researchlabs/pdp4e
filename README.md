@@ -11,13 +11,14 @@
 ## Partners
 
 <table>
-  <tr><td>1</td><td>TRIALOG</td><td>France</td></tr>
-</table>
+  <tr><td>#</td><td>Partner</td><td>Country</td></tr>
   
-2 UNIVERSIDAD POLITECNICA DE MADRID Spain
-3 CA TECHNOLOGIES DEVELOPMENT SPAIN SA Spain
-4 COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES France
-5 FUNDACION TECNALIA RESEARCH & INNOVATION Spain
-6 KATHOLIEKE UNIVERSITEIT LEUVEN Belgium
-7 ECLIPSE FOUNDATION EUROPE GMBH Germany
-8 UNIVERSITAET DUISBURG-ESSEN Germany
+  <tr><td>1</td><td>TRIALOG</td><td>France</td></tr>
+  <tr><td>UNIVERSIDAD POLITECNICA DE MADRID</td><td>Spain</td></tr>
+  <tr><td>CA TECHNOLOGIES DEVELOPMENT SPAIN SA</td><td>Spain</td></tr>
+  <tr><td>COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES</td><td>France</td></tr>
+  <tr><td>FUNDACION TECNALIA RESEARCH & INNOVATION</td><td>Spain</td></tr>
+  <tr><td>KATHOLIEKE UNIVERSITEIT LEUVEN</td><td>Belgium</td></tr>
+  <tr><td>ECLIPSE FOUNDATION EUROPE GMBH</td><td>Germany</td></tr>
+  <tr><td>UNIVERSITAET DUISBURG-ESSEN</td><td>Germany</td></tr>
+</table>
