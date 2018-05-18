@@ -8,6 +8,14 @@
 
 > PDP4E will promote its results in engineering communities, as Eclipse (community of software developers) or IPEN (community of stakeholders with an interest on privacy engineering). An open Alliance for Privacy and Data Protection Engineering is planned as a follow-up of the project, building on that community and the synergies among partners. PDP4E includes 8 partners and has a 33-month duration.
 
+## Keywords
+* Privacy
+* Privacy-by-Design
+* Privacy Data Protection
+* Privacy Engineering
+* GDPR Compliance
+* Methods, tools, meta-model driven
+
 ## Partners
 
 <table>
