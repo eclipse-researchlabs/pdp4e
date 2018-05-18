@@ -11,7 +11,7 @@
 ## Partners
 
 <table>
-  <tr><td>#</td><td>Partner</td><td>Country</td></tr>
+  <tr><th>#</th><th>Partner</th><th>Country</th></tr>
   
   <tr><td>1</td><td>TRIALOG</td><td>France</td></tr>
   <tr><td>2</td><td>UNIVERSIDAD POLITECNICA DE MADRID</td><td>Spain</td></tr>
