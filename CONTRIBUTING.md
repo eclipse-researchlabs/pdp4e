@@ -8,23 +8,18 @@ PDP4E is a place where the community itself collaborates on tools for
 community awareness and collaboration in support of our ultimate objective of
 committer quality and cooperation.
 
-* TBD: https://projects.eclipse.org/projects/technology.XXX
-
 ## Developer resources
 
 Information regarding source code management, builds, coding standards, and
 more.
 
-* TBD: https://projects.eclipse.org/projects/technology.XXX/developer
-
 The project maintains the following source code repositories
 
 * https://github.com/eclipse-researchlabs/pdp4e/
 
-This project uses Bugzilla to track ongoing development and issues.
+This project uses GitHub ussues to track ongoing development and issues.
 
-* TBD: Search for issues: https://eclipse.org/bugs/buglist.cgi?product=XXX
-* TBD: Create a new report: https://eclipse.org/bugs/enter_bug.cgi?product=XXX
+* https://github.com/eclipse-researchlabs/pdp4e/issues
 
 Be sure to search for existing bugs before you create another one. Remember that
 contributions are always welcome!
@@ -47,7 +42,7 @@ https://www.eclipse.org/projects/handbook/#resources-commit
 
 ## Contact
 
-Contact the project developers via the project's "dev" list.
+Contact the project developers via the project team list
 
-* TBD: https://dev.eclipse.org/mailman/listinfo/XXX-dev
+* https://github.com/orgs/eclipse-researchlabs/teams/pdp4e/members
 
